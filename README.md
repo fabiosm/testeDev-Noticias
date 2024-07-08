@@ -11,4 +11,5 @@
 - Crud completo de categorias (Falta editar e excluir)
 - Na tala inicial adionar uma paginação quando houver muitas noticias cadastradas
 - Pesquisa de noticia ser feita via AJAX
+- Adicionar categoria via AJAX (Dessa forma não perde o conteudo do form escrito, e nem precisa tratar isso via request
   
